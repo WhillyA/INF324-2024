@@ -1,4 +1,4 @@
-#Examen 1er Parcial
+# Examen 1er Parcial
 
 Crear una BD de datos que responda al nombre de su persona (ej. BDMoises); en la misma deberá considerar la relación Persona, 
 cuenta bancaria, asi como de transacciones bancarias. A partir de ello debe generar lo siguiente:
