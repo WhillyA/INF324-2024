@@ -1,0 +1,60 @@
+
+body {
+	background-color: #f2f2f2; /* Fondo medio gris */
+	font-family: Arial, sans-serif; /* Fuente del texto */
+}
+h1 {
+	background-color: #3498db; /* Fondo azul */
+	color: white; /* Texto blanco */
+	text-transform: uppercase; /* Texto en mayúsculas */
+	padding: 10px; /* Espaciado interior */
+	border-radius: 5px; /* Bordes redondeados */
+	text-align: center; /* Centrar el texto */
+}
+form {
+	border: 2px solid #ccc; /* Borde gris */
+	border-radius: 10px; /* Bordes redondeados */
+	padding: 20px; /* Espaciado interior */
+	width: 50%; /* Ancho del formulario */
+	margin: 0 auto; /* Centrar el formulario horizontalmente */
+	background-color: white; /* Fondo blanco */
+}
+label {
+	display: block; /* Mostrar cada etiqueta en una línea */
+	margin-bottom: 10px; /* Espacio inferior */
+}
+input[type="text"],
+input[type="password"],
+select {
+	width: 100%; /* Ancho completo */
+	padding: 8px; /* Espaciado interior */
+	margin-bottom: 20px; /* Espacio inferior */
+	border-radius: 5px; /* Bordes redondeados */
+	border: 1px solid #ccc; /* Borde gris */
+	box-sizing: border-box; /* Incluir el borde en el ancho total */
+}
+input[type="submit"] {
+	background-color: #3498db; /* Fondo azul */
+	color: white; /* Texto blanco */
+	padding: 10px 20px; /* Espaciado interior */
+	border: none; /* Sin borde */
+	border-radius: 5px; /* Bordes redondeados */
+	cursor: pointer; /* Cursor de puntero */
+	text-transform: uppercase; /* Texto en mayúsculas */
+}
+input[type="submit"]:hover {
+	background-color: #2980b9; /* Fondo azul más oscuro al pasar el ratón */
+}
+button[type="submit"] {
+	background-color: #3498db;
+	color: #fff;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+	margin-top: 20px;
+	float: right;
+}
+button[type="submit"]:hover {
+	background-color: #2980b9;
+}

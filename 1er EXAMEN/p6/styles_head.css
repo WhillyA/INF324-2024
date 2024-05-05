@@ -1,0 +1,36 @@
+  /* Estilo para el menú que permanece fijo en la parte superior */
+  .navbar {
+    position: fixed; /* Mantiene el menú fijo */
+    top: 0; /* Posiciona el menú en la parte superior */
+    width: 100%; /* El menú debe ocupar todo el ancho de la página */
+    background-color: #3498db; /* Fondo azul */
+    padding: 10px 0; /* Añadir un poco de espacio vertical */
+    text-align: center; /* Centra el contenido */
+    z-index: 1000; /* Asegura que el menú siempre esté por encima del contenido */
+    border: 4px solid white; /* Borde blanco alrededor del menú */
+}
+.navbar li:hover {
+    background-color: #4ca8e4; /* Fondo azul */
+    border: 1px solid white; /* Borde blanco alrededor del menú */
+}
+
+/* Estilo para los enlaces dentro del menú */
+.navbar a {
+    color: white; /* Texto blanco */
+    text-decoration: none; /* Quitar subrayado */
+    text-transform: uppercase; /* Texto en mayúsculas */
+    font-weight: bold; /* Negrita para mayor legibilidad */
+    margin: 0 15px; /* Añadir espacio entre los enlaces */
+}
+
+/* Estilo para los elementos de la lista dentro del menú */
+.navbar li {
+    display: inline; /* Mostrar elementos en línea */
+    border-right: 1px solid white; /* Borde blanco entre elementos del menú */
+}
+
+/* Estilo para el cuerpo del contenido */
+.content {
+    margin-top: 50px; /* Asegurar que el contenido no esté oculto detrás del menú fijo */
+    padding: 20px; /* Añadir espacio alrededor del contenido */
+}

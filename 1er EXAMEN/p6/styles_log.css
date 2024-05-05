@@ -1,0 +1,71 @@
+
+body {
+	background-color: #3498db; /* Fondo medio gris */
+	font-family: Arial, sans-serif; /* Fuente del texto */
+	text-transform: uppercase; /* Texto en mayúsculas */
+}
+h1 {
+	background-color: #3498db; /* Fondo azul */
+	color: white; /* Texto blanco */
+	text-transform: uppercase; /* Texto en mayúsculas */
+	padding: 10px; /* Espaciado interior */
+	border-radius: 5px; /* Bordes redondeados */
+	text-align: center; /* Centrar el texto */
+}
+form {
+	border: 2px solid #ccc; /* Borde gris */
+	border-radius: 10px; /* Bordes redondeados */
+	padding: 20px; /* Espaciado interior */
+	width: 300px; /* Ancho del formulario */
+	height: 250px;
+	margin: 0 auto; /* Centrar el formulario horizontalmente */
+	background-color: white; /* Fondo blanco */
+}
+label {
+	display: block; /* Mostrar cada etiqueta en una línea */
+	margin-bottom: 10px; /* Espacio inferior */
+}
+input[type="text"],
+input[type="password"],
+select {
+	width: 100%; /* Ancho completo */
+	padding: 8px; /* Espaciado interior */
+	margin-bottom: 20px; /* Espacio inferior */
+	border-radius: 5px; /* Bordes redondeados */
+	border: 1px solid #ccc; /* Borde gris */
+	box-sizing: border-box; /* Incluir el borde en el ancho total */
+}
+input[type="submit"] {
+	background-color: #3498db; /* Fondo azul */
+	color: white; /* Texto blanco */
+	padding: 10px 20px; /* Espaciado interior */
+	border: none; /* Sin borde */
+	border-radius: 5px; /* Bordes redondeados */
+	cursor: pointer; /* Cursor de puntero */
+	text-transform: uppercase; /* Texto en mayúsculas */
+}
+input[type="submit"]:hover {
+	background-color: #2980b9; /* Fondo azul más oscuro al pasar el ratón */
+}
+button[type="submit"] {
+	background-color: #3498db;
+	color: #fff;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 5px;
+	cursor: pointer;
+	margin-top: 20px;
+	float: right;
+}
+button[type="submit"]:hover {
+	background-color: #2980b9;
+}
+.image {
+    position: absolute;
+    top: 5%; /* Colocada un poco más abajo del borde superior */
+    left: 5%; /* Colocada un poco más hacia la derecha */
+    width: 90%; /* Ocupa el 80% de la pantalla */
+    height: 90%; /* También ocupa el 80% de altura */
+    z-index: -1; /* Imagen detrás de otros elementos */
+    opacity: 0.3; /* Transparencia para que no oculte el contenido frontal */
+}

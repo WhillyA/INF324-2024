@@ -1,0 +1,27 @@
+/* styles.css */
+nav {
+    background-color: #3498db; /* Fondo del menú */
+    color: white; /* Color de texto */
+    padding: 10px; /* Espaciado interno */
+}
+
+nav ul {
+    list-style-type: none; /* Quita los puntos de la lista */
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline; /* Muestra los elementos de la lista en línea */
+    margin-right: 20px; /* Espacio entre elementos */
+}
+
+nav ul li a {
+    color: white; /* Color de los enlaces */
+    text-decoration: none; /* Quita el subrayado */
+    text-transform: uppercase; /* Texto en mayúsculas */
+}
+
+nav ul li a:hover {
+    color: yellow; /* Color al pasar el ratón */
+}
