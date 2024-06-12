@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\324-1205\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6642D5-AE51-47FF-AB55-93CA5BE7DC6D}|324-1205\\324-1205.csproj|c:\\users\\usuario\\source\\repos\\324-1205\\324-1205\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6642D5-AE51-47FF-AB55-93CA5BE7DC6D}|324-1205\\324-1205.csproj|solutionrelative:324-1205\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6642D5-AE51-47FF-AB55-93CA5BE7DC6D}|324-1205\\324-1205.csproj|C:\\Users\\Usuario\\source\\repos\\324-1205\\324-1205\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B6642D5-AE51-47FF-AB55-93CA5BE7DC6D}|324-1205\\324-1205.csproj|solutionrelative:324-1205\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\324-1205\\324-1205\\Form1.cs",
+              "RelativeDocumentMoniker": "324-1205\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\324-1205\\324-1205\\Form1.cs",
+              "RelativeToolTip": "324-1205\\Form1.cs",
+              "ViewState": "AQIAAIcBAAAAAAAAAAAqwJMBAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:34:31.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\324-1205\\324-1205\\Form1.cs",
+              "RelativeDocumentMoniker": "324-1205\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\324-1205\\324-1205\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "324-1205\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:32:50.085Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
